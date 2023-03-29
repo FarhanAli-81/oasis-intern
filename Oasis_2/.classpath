@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/farhan/eclipse/java-2022-12/eclipse/configuration/org.eclipse.osgi/526/0/.cp/miglayout15-swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/farhan/eclipse/java-2022-12/eclipse/configuration/org.eclipse.osgi/526/0/.cp/ideutil.jar"/>
+	<classpathentry kind="lib" path="C:/Users/farhan/Downloads/mysql-connector-j-8.0.32.zip"/>
+	<classpathentry kind="lib" path="C:/Users/farhan/Downloads/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32/mysql-connector-j-8.0.32.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
